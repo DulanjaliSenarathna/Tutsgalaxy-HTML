@@ -1,0 +1,20 @@
+h1{
+    font-family:arial;
+    font-size:40px;
+    background:#ffffff;
+    color:red;
+}
+
+h2{
+    font-family:arial,verdana,sans-serif;
+    font-size:20px;
+    background:#ffffff;
+    color:black;
+}
+
+p{
+    font-family:times new roman,verdana,sans-serif;
+    font-size:18px;
+    background:#ffffff;
+    color:navy;
+}
